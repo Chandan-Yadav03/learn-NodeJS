@@ -1,0 +1,5 @@
+function toISOString() { [native code] }- Current memory usage: 16.06
+function toISOString() { [native code] }- Current memory usage: 15.57
+function toISOString() { [native code] }- Current memory usage: 15.59
+function toISOString() { [native code] }- Current memory usage: 15.50
+function toISOString() { [native code] }- Current memory usage: 15.44
